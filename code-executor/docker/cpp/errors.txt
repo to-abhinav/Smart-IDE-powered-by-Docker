@@ -1,0 +1,5 @@
+code.cpp: In function 'int main()':
+code.cpp:8:28: error: 'ij' was not declared in this scope; did you mean 'i'?
+    8 |         cout << "Line " << ij<< ": Hello from inside Docker!" << endl;
+      |                            ^~
+      |                            i

@@ -1,0 +1,7 @@
+code.cpp: In function 'int main()':
+code.cpp:12:48: error: expected ';' before 'std'
+   12 |     for (int n : numbers) std::cout << n << " "
+      |                                                ^
+      |                                                ;
+   13 |     std::cout << std::endl;
+      |     ~~~                                         

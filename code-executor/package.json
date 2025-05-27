@@ -1,0 +1,20 @@
+{
+  "name": "code-executor",
+  "version": "1.0.0",
+  "description": "This is to execcute code in a container for my ide ",
+  "license": "ISC",
+  "author": "Abhinav Tomar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "uuid": "^11.1.0"
+  }
+}
