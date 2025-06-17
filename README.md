@@ -165,7 +165,7 @@ Yes. Each language runs in a **separate container** with no access to host resou
 ## 💬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin\&style=flat-square)](https://www.linkedin.com/in/to-abhinav/)
-🛠 For issues, create an [Issue](https://github.com/to-abhinav/logical-lab/issues) or submit a [Pull Request](https://github.com/to-abhinav/logical-lab/pulls)
+🛠 For issues, create an [Issue](https://github.com/to-abhinav/Smart-IDE-powered-by-Docker/issues) or submit a [Pull Request](https://github.com/to-abhinav/Smart-IDE-powered-by-Docker/pulls)
 
 ---
 
